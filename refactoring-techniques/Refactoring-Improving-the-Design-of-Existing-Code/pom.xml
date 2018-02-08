@@ -3,17 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>ood-basics</artifactId>
+        <artifactId>refactoring-techniques</artifactId>
         <groupId>dvl.srg.ood</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>refactoring-techniques</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>Refactoring-Improving-the-Design-of-Existing-Code</module>
-    </modules>
+    <artifactId>Refactoring-Improving-the-Design-of-Existing-Code</artifactId>
 
 
 </project>
