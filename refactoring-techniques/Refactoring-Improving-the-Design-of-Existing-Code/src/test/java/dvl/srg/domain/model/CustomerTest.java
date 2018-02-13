@@ -1,5 +1,8 @@
 package dvl.srg.domain.model;
 
+import dvl.srg.domain.model.chapter_01.Customer;
+import dvl.srg.domain.model.chapter_01.Movie;
+import dvl.srg.domain.model.chapter_01.Rental;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

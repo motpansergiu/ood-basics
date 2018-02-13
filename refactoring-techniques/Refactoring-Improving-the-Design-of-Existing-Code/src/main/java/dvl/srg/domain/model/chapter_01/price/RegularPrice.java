@@ -1,6 +1,6 @@
-package dvl.srg.domain.model.price;
+package dvl.srg.domain.model.chapter_01.price;
 
-import dvl.srg.domain.model.Movie;
+import dvl.srg.domain.model.chapter_01.Movie;
 
 public class RegularPrice extends Price {
     @Override

@@ -1,4 +1,4 @@
-package dvl.srg.domain.model.price;
+package dvl.srg.domain.model.chapter_01.price;
 
 public abstract class Price {
 

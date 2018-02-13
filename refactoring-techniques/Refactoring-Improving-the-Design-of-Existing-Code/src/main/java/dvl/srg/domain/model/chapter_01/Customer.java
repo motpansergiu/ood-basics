@@ -1,4 +1,4 @@
-package dvl.srg.domain.model;
+package dvl.srg.domain.model.chapter_01;
 
 import java.util.Enumeration;
 import java.util.Vector;

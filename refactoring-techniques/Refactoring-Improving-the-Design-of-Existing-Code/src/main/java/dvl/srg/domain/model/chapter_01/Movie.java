@@ -1,9 +1,9 @@
-package dvl.srg.domain.model;
+package dvl.srg.domain.model.chapter_01;
 
-import dvl.srg.domain.model.price.ChildrensPrice;
-import dvl.srg.domain.model.price.NewReleasePrice;
-import dvl.srg.domain.model.price.Price;
-import dvl.srg.domain.model.price.RegularPrice;
+import dvl.srg.domain.model.chapter_01.price.ChildrensPrice;
+import dvl.srg.domain.model.chapter_01.price.NewReleasePrice;
+import dvl.srg.domain.model.chapter_01.price.Price;
+import dvl.srg.domain.model.chapter_01.price.RegularPrice;
 
 public class Movie {
 

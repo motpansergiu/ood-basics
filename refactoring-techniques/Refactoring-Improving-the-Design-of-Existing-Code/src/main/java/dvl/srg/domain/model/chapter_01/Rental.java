@@ -1,4 +1,4 @@
-package dvl.srg.domain.model;
+package dvl.srg.domain.model.chapter_01;
 
 public class Rental {
     private Movie _movie;
